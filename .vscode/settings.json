@@ -3,5 +3,8 @@
     "objectscript.conn.version": 3,
     "objectscript.conn.ns": "USER",
     "objectscript.conn.port": 52773, 
-    "objectscript.export.addCategory": true
+    "objectscript.export.addCategory": true,
+    "objectscript.conn.password": "SYS",
+    "objectscript.conn.username": "admin",
+    
 }
